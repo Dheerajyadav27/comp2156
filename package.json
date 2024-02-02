@@ -1,13 +1,12 @@
 {
-  "name": "comp2156---devops",
+  "name": "comp2156",
   "version": "1.0.0",
-  "description": "- Dheeraj  - Yadav",
+  "description": "COMP2156- DEVOPS Dheeraj Yadav",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["devops", "nodejs", "express", "web"],
-  "author": "Dheeraj Yadav 101393900",
-  "license": "ISC"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
